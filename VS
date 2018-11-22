@@ -1,0 +1,7 @@
+View --> Extensions
+Load from VSIX
+  C:\Program Files (x86)\Microsoft Dynamics 365 Business Central\130\AL Development Environment\ALLanguage.VSIX
+Reload
+NAV Administration --> Development --> Enable Developer Service Endpoint
+Client services --> Web client Base URL (insert web client url from IIS)
+create new project (ALT + A + L)
